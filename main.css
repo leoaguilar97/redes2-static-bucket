@@ -11,13 +11,13 @@ html {
 .fonty {
     font-family: 'Pacifico', cursive;
     text-align: center;
-    font-size: 50px;
-    color: rgb(226, 225, 225);
+    font-size: 55px;
+    color: rgba(255, 255, 255, 0.945);
 }
 
 .fonty2 {
     font-family: 'Pacifico', cursive;
     text-align: center;
     font-size: 35px;
-    color: rgba(253, 153, 60, 0.733);
+    color: rgba(248, 113, 34, 0.781);
 }
